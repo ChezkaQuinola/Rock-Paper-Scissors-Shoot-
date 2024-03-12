@@ -1,3 +1,6 @@
+# Source Code
+### Will only work on Trinket
+
 ```py
 scene.background= vector(255/255,197/255,122/255) #sets the background color
 scene.camera.pos = vector(0,0,3) #sets the position of the camera
